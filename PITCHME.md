@@ -1,9 +1,15 @@
 
-<span style="color:black; font-size: 1.2em;">the kind of problem a city is</span>
+![env4](pics/env4.jpg)
+![env1](pics/env1.jpg)
+![env2](pics/env2.jpg)
+![env5](pics/env5.jpg)
+<span style="color:black; font-size: 1.2em;">Laboratory for Human-Environment Relations in Urban Systems</span>
 <br>
-![eric_fischer](pics/erichfischer.jpg)
+<span style="color:gray; font-size: 1em;">École polytechnique fédérale de Lausanne</span>
+
+
 <br>
-<span style="color:gray; font-size: 1em;">joao meirelles</span>
+<span style="color:gray; font-size: 0.8em;">joao meirelles</span>
 
 ---
 ![ancient1](pics/ancient2_nasa.jpg)
