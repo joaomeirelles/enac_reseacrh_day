@@ -1,8 +1,8 @@
 
-![env4](pics/env4.jpg)
-![env1](pics/env1.jpg)
-![env2](pics/env2.jpg)
-![env5](pics/env5.jpg)
+![env4](pics/env4.jpg){:height="50%" width="50%"}
+![env1](pics/env1.jpg){:height="50%" width="50%"}
+![env2](pics/env2.jpg){:height="50%" width="50%"}
+![env5](pics/env5.jpg){:height="50%" width="50%"}
 <span style="color:black; font-size: 1.2em;">Laboratory for Human-Environment Relations in Urban Systems</span>
 <br>
 <span style="color:gray; font-size: 1em;">École polytechnique fédérale de Lausanne</span>
