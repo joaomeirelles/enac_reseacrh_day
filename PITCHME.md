@@ -25,14 +25,18 @@
 ![population](https://www.youtube.com/embed/Yi-rEL8i46Y?ecver=2)
 
 +++
-<span style="color:black; font-size: 0.8em;">as gities grows, they become  </span><span style="color:grey; font-size: 0.8em;">  denser</span>
+<span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  denser</span>
 ![density](https://player.vimeo.com/video/55874193)
 
 
 +++
-<span style="color:black; font-size: 0.8em;">as gities grows, they become  </span><span style="color:grey; font-size: 0.8em;">  richer</span>
+<span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  richer</span>
 ![income](pics/urban_income.png)
 
+
++++
+<span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more unequal</span>
+![gini](pics/gini.png)
 
 
 

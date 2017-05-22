@@ -53,3 +53,19 @@ labs(x="urban population [%]", y="gdp per capita [ppp]")+
         panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
 ggsave("./pics/urban_income.png", width = 7, height = 4)
+
+
+### Gini ###
+
+ggplot(urban_income[urban_income$urbanpop_perc>10,], aes(urbanpop_perc, gini_ppp))+
+  geom_point(color = "gray30")+
+  geom_smooth(method="lm", se=FALSE,color = "darkmagenta")+
+labs(x="urban population [%]", y="gini index")+
+  theme_bw()+
+  theme(text=element_text(size=16,  family="Courier"),
+        plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
+        panel.border = element_blank(), panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+ggsave("./pics/gini.png", width = 7, height = 4)
+
+
