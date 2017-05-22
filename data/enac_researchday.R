@@ -21,11 +21,11 @@ ggplot(urban_pop)+
   annotate(geom="text", x=1955, y=6, label="world", colour="black", size=4, family="Courier")+
 
   
-  geom_line(aes(year, More.developed.regions/1000000), color='steelblue')+
-  annotate(geom="text", x=1965, y=5, label="More developed regions", colour="steelblue", size=4, family="Courier")+
+#  geom_line(aes(year, More.developed.regions/1000000), color='steelblue')+
+#  annotate(geom="text", x=1965, y=5, label="More developed regions", colour="steelblue", size=4, family="Courier")+
     
-  geom_line(aes(year, Less.developed.regions/1000000), color='brown')+
-  annotate(geom="text", x=1965, y=5.5, label="Less developed regions", colour="brown", size=4, family="Courier")+
+#  geom_line(aes(year, Less.developed.regions/1000000), color='brown')+
+#  annotate(geom="text", x=1965, y=5.5, label="Less developed regions", colour="brown", size=4, family="Courier")+
                                                                 
   labs(x="year", y="", title="urban population [millions]")+
   theme_bw()+
@@ -33,8 +33,8 @@ ggplot(urban_pop)+
         plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
         panel.border = element_blank(), panel.grid.major = element_blank(),
                      panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
-ggsave("./pics/growth.png", width = 7, height = 4)
-ggsave("./pics/growth2.png", width = 7, height = 4)
+ggsave("./pics/growth.png", width = 6, height = 3)
+ggsave("./pics/growth2.png", width = 6, height = 3)
 
 
 
@@ -52,4 +52,4 @@ labs(x="urban population [%]", y="gdp per capita [ppp]")+
         plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
         panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
-ggsave("./pics/urban_income.png", width = 7, height = 4)
+ggsave("./pics/urban_income.png", width = 6, height = 3)
