@@ -14,14 +14,26 @@
 <span style="color:black; font-size: 1em;">urban growth</span>
 
 +++
+<span style="color:black; font-size: 0.8em;">global population is going urban</span>
 ![growth](pics/growth.png)
 +++
+<span style="color:grey; font-size: 0.8em;">global population is going urban</span>
 ![growth_description](pics/growth2.png)
+<span style="color:black; font-size: 0.8em;">more in some areas than others</span>
++++
+
++++
+![density](https://player.vimeo.com/video/55874193)
+
+
 
 ---
 <span style="color:black; font-size: 1em;">urban impacts</span>
 +++
 ![impacts](pics/impacts.png)
+
++++
+![framework](pics/framework.png)
 
 ---
 <span style="color:black; font-size: 1em;">urban sustainability</span>
