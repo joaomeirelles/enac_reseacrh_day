@@ -68,3 +68,23 @@ labs(x="urban population [%]", y="gini index")+
 ggsave("./pics/gini.png", width = 7, height = 4)
 
 
+### footprint ###
+footprint <- read.csv(file="./data/compare_countries_EFCpc.csv", sep=",", stringsAsFactors=FALSE)
+
+
+urban_footprint <- merge(urban_income, footprint, by="country")
+
+
+
+ggplot(urban_footprint[urban_footprint$urbanpop_perc>10,], aes(urbanpop_perc, Total))+
+  geom_point(color = "gray30")+
+  geom_smooth(method="loess", se=FALSE,color = "darkgreen")+
+  labs(x="urban population [%]", y="ecological footprint")+ # [gha / person]
+  theme_bw()+
+  theme(text=element_text(size=16,  family="Courier"),
+        plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
+        panel.border = element_blank(), panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
+ggsave("./pics/footprint.png", width = 7, height = 4)
+
+

@@ -39,6 +39,10 @@
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more unequal</span>
 ![gini](pics/gini.png)
 
++++
+<span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more impactant</span>
+![footprint](pics/footprint.png)
+
 
 
 ---
@@ -74,7 +78,7 @@
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition towards decentralized regional energy autonomy</span>
-![claudia](pics/claudia.png)
+![transition](pics/transition.png)
 
 ---
 ![logo](pics/herus_m.png)
