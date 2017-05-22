@@ -70,7 +70,7 @@
 
 ---
 <span style="color:black; font-size: 1em;">urban sustainability: </span>
-<span style="color:grey; font-size: 0.8em;">  what can be done to change change this trends?</span>
+<span style="color:grey; font-size: 0.8em;">  what can be done to change this trends?</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">transition processes</span>
