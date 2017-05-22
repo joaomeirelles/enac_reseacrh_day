@@ -6,7 +6,7 @@
 <span style="color:gray; font-size: 0.4em;">Prof. Dr. Claudia R. Binder, Susan Mühlemeier, Livia Fritz, Franziska Meinherz, Joao Meirelles, Thomas Bauwens, Jonas Mehr, Thibaud Rossel</span>
 
 ---
-![urban_footprint](pics/urban_footprint.png)
+![urban_footprint](pics/urban_footprint.jpg)
 
 ---
 ![herus_methods](pics/herus_methods.png)
