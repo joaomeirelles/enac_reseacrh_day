@@ -46,7 +46,27 @@
 ![impacts](pics/impacts.png)
 
 +++
+<span style="color:black; font-size: 0.8em;">the urban metabolism</span>
 ![framework](pics/framework.png)
+
+
++++
+<span style="color:black; font-size: 0.8em;">dynamics of the urban metabolism</span>
+![cisbat](pics/pf.png)
+
++++
+<span style="color:black; font-size: 0.8em;">drivers of energy consumption</span>
+![cisbat](pics/cisbat.png)
 
 ---
 <span style="color:black; font-size: 1em;">urban sustainability</span>
+
++++
+<span style="color:black; font-size: 0.8em;">transition in energy consumption</span>
+![cisbat](pics/tb.png)
+
+
+
++++
+<span style="color:black; font-size: 0.8em;">transition in material flows</span>
+![cisbat](pics/cisbat.png)

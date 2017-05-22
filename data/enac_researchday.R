@@ -9,7 +9,6 @@ options(scipen=10000)
 setwd("/home/jm/Dropbox/PhD/events/enac_research_day")
 
 
-
 ######## Urban growth #######
 urban_pop <- read.csv(file="./data/un_urbanpopulation.csv", sep=",", stringsAsFactors=FALSE)
 head(urban_pop)
