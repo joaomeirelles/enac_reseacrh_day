@@ -12,3 +12,14 @@
 
 ---
 <span style="color:black; font-size: 1em;">urban growth</span>
+
+---
+![growth](pics/growth.png)
+---
+![growth_description](pics/growth2.png)
+---
+<span style="color:black; font-size: 1em;">urban impacts</span>
+
+
+---
+<span style="color:black; font-size: 1em;">urban sustainability</span>
