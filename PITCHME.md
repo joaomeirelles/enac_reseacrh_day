@@ -12,7 +12,10 @@
 ![herus_methods](pics/herus_methods.png)
 
 ---
-<span style="color:black; font-size: 1em;">urban growth</span>
+<span style="color:black; font-size: 1em;">the urban era and it's relations to the environment</span>
+
++++
+![impacts](pics/impacts.png)
 
 +++
 <span style="color:black; font-size: 0.8em;">the world is going urban</span>
@@ -40,15 +43,14 @@
 ![gini](pics/gini.png)
 
 +++
-<span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more impactant</span>
+<span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more impactful</span>
 ![footprint](pics/footprint.png)
 
 
 
 ---
-<span style="color:black; font-size: 1em;">urban impacts</span>
-+++
-![impacts](pics/impacts.png)
+<span style="color:black; font-size: 1em;">urban impacts: </span>
+<span style="color:grey; font-size: 0.8em;">  what are it's drivers and dynamics?</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">the urban metabolism</span>
@@ -64,7 +66,12 @@
 ![cisbat](pics/cisbat.png)
 
 ---
-<span style="color:black; font-size: 1em;">urban sustainability</span>
+<span style="color:black; font-size: 1em;">urban sustainability: </span>
+<span style="color:grey; font-size: 0.8em;">  what can be done to change change this trends?</span>
+
++++
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">transition towards sustainability</span>
+![transition](pics/transition.png)
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition in material flows</span>
@@ -76,9 +83,7 @@
 ![cisbat](pics/tb.png)
 
 
-+++
-<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition towards decentralized regional energy autonomy</span>
-![transition](pics/transition.png)
+
 
 ---
 ![logo](pics/herus_m.png)
