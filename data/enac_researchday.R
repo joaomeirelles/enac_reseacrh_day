@@ -33,8 +33,8 @@ ggplot(urban_pop)+
         plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
         panel.border = element_blank(), panel.grid.major = element_blank(),
                      panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
-ggsave("./pics/growth.png", width = 6, height = 3)
-ggsave("./pics/growth2.png", width = 6, height = 3)
+ggsave("./pics/growth.png", width = 7, height = 4)
+ggsave("./pics/growth2.png", width = 7, height = 4)
 
 
 
@@ -52,4 +52,4 @@ labs(x="urban population [%]", y="gdp per capita [ppp]")+
         plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
         panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
-ggsave("./pics/urban_income.png", width = 6, height = 3)
+ggsave("./pics/urban_income.png", width = 7, height = 4)

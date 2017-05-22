@@ -14,25 +14,25 @@
 <span style="color:black; font-size: 1em;">urban growth</span>
 
 +++
-<span style="color:black; font-size: 0.8em;">global population is going urban</span>
+<span style="color:black; font-size: 0.8em;">the world is going urban</span>
 ![growth](pics/growth.png)
 +++
-<span style="color:black; font-size: 0.8em;">global population is going urban</span>
+<span style="color:black; font-size: 0.8em;">the world is going urban</span>
 ![growth_description](pics/growth2.png)
-<span style="color:grey; font-size: 0.8em;">more in some areas than others</span>
+
 +++
 <span style="color:black; font-size: 0.8em;">global population is going urban</span>
 ![population](https://www.youtube.com/embed/Yi-rEL8i46Y?ecver=2)
 
 +++
-<span style="color:black; font-size: 0.8em;">as gities grows, they become</span>
+<span style="color:black; font-size: 0.8em;">as gities grows, they become</span><span style="color:grey; font-size: 0.8em;">denser</span>
 ![density](https://player.vimeo.com/video/55874193)
-<span style="color:grey; font-size: 0.8em;">denser</span>
+
 
 +++
-<span style="color:black; font-size: 0.8em;">as gities grows, they become</span>
+<span style="color:black; font-size: 0.8em;">as gities grows, they become</span><span style="color:grey; font-size: 0.8em;">richer</span>
 ![income](pics/urban_income.png)
-<span style="color:grey; font-size: 0.8em;">richer</span>
+
 
 
 
