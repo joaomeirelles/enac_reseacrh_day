@@ -56,6 +56,9 @@
 <span style="color:black; font-size: 0.8em;">the urban metabolism</span>
 ![framework](pics/framework.png)
 
++++
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  dynamics of the urban metabolism</span>
+![cisbat](pics/scaling_laws.png)
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  dynamics of the urban metabolism</span>
@@ -70,19 +73,21 @@
 <span style="color:grey; font-size: 0.8em;">  what can be done to change change this trends?</span>
 
 +++
-<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">transition towards sustainability</span>
-![transition](pics/transition.png)
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">transition processes</span>
+![transition](pics/transition_theory.png)
 
 +++
-<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition in material flows</span>
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  room for improvement in material flows</span>
 ![p_flows](pics/p_flows.png)
 
 
 +++
-<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition in energy consumption</span>
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition towards a sustainable energy use: </span>
 ![cisbat](pics/tb.png)
 
-
++++
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition towards decentralized regional energy autonomy</span>
+![cisbat](pics/transition_energy.png)
 
 
 ---
