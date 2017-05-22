@@ -1,4 +1,4 @@
-![logo](pics/herus.png)
+![logo](pics/herus_m.png)
 ![head](pics/head.png)
 <br>
 <span style="color:black; font-size: 0.8em;">Laboratory for Human-Environment Relations in Urban Systems</span>
@@ -8,3 +8,6 @@
 
 ---
 ![twitter](pics/twitter_movements.png)
+
+---
+<span style="color:black; font-size: 1em;">urban growth</span>
