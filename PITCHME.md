@@ -62,11 +62,16 @@
 <span style="color:black; font-size: 1em;">urban sustainability</span>
 
 +++
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition in material flows</span>
+![p_flows](pics/p_flows.png)
+
+
++++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition in energy consumption</span>
 ![cisbat](pics/tb.png)
 
 
-
 +++
-<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition in material flows</span>
-![p_flows](pics/p_flows.png)
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition towards decentralized regional energy autonomy</span>
+![claudia](pics/claudia.png)
+
