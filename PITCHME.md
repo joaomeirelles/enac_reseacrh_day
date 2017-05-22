@@ -1,9 +1,9 @@
 ![logo](pics/herus.png)
-![env](pics/env.png)
+![head](pics/head.png)
 <br>
 <span style="color:black; font-size: 0.8em;">Laboratory for Human-Environment Relations in Urban Systems</span>
 <br>
-<span style="color:gray; font-size: 1em;">École polytechnique fédérale de Lausanne</span>
+<span style="color:gray; font-size: 0.6em;">École polytechnique fédérale de Lausanne</span>
 
 
 <br>
