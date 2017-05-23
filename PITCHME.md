@@ -7,44 +7,50 @@
 
 ---
 ![urban_footprint](pics/urban_footprint.jpg)
+<span style="color:grey; font-size: 0.2em;">global footprint network</span>
 
 ---
 ![herus_methods](pics/herus_methods.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 ---
 <span style="color:black; font-size: 1em;">the urban era and it's relations to the environment</span>
 
 +++
 ![impacts](pics/impacts.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">the world is going urban</span>
-![growth](pics/growth.png)
-+++
-<span style="color:black; font-size: 0.8em;">the world is going urban</span>
 ![growth_description](pics/growth2.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">global population is going urban</span>
 ![population](https://www.youtube.com/embed/Yi-rEL8i46Y?ecver=2)
+<span style="color:grey; font-size: 0.2em;">unicef</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  denser</span>
 ![density](https://player.vimeo.com/video/55874193)
+<span style="color:grey; font-size: 0.2em;">plan b</span>
 
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  richer</span>
 ![income](pics/urban_income.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more unequal</span>
 ![gini](pics/gini.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more impactful</span>
 ![footprint](pics/footprint.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 
 
@@ -55,18 +61,22 @@
 +++
 <span style="color:black; font-size: 0.8em;">the urban metabolism</span>
 ![framework](pics/framework.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  dynamics of the urban metabolism</span>
 ![cisbat](pics/scaling_laws.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  dynamics of the urban metabolism</span>
 ![cisbat](pics/pf.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  drivers of energy consumption</span>
 ![cisbat](pics/cisbat.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 ---
 <span style="color:black; font-size: 1em;">urban sustainability: </span>
@@ -75,31 +85,38 @@
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">transition processes</span>
 ![transition](pics/transition_theory.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  room for improvement in material flows</span>
 ![p_flows](pics/p_flows2.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to a sustainable energy use: </span>
 ![cisbat](pics/tb.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to decentralized regional energy autonomy</span>
 ![cisbat](pics/energy3.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to decentralized regional energy autonomy</span>
 ![cisbat](pics/energy2.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to decentralized regional energy autonomy</span>
 ![cisbat](pics/transition_energy.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to decentralized regional energy autonomy</span>
 ![cisbat](pics/energy4.png)
+<span style="color:grey; font-size: 0.2em;">herus</span>
 
 
 ---
