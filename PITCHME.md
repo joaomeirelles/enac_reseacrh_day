@@ -87,7 +87,19 @@
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to decentralized regional energy autonomy</span>
+![cisbat](pics/energy3.png)
+
++++
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to decentralized regional energy autonomy</span>
+![cisbat](pics/energy2.png)
+
++++
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to decentralized regional energy autonomy</span>
 ![cisbat](pics/transition_energy.png)
+
++++
+<span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  transition to decentralized regional energy autonomy</span>
+![cisbat](pics/energy4.png)
 
 
 ---
