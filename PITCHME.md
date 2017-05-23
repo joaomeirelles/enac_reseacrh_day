@@ -14,7 +14,7 @@
 <span style="color:grey; font-size: 0.2em;">herus</span>
 
 ---
-<span style="color:black; font-size: 1em;">the urban era and it's relations to the environment</span>
+<span style="color:black; font-size: 1em;">urban world</span>
 
 +++
 ![impacts](pics/impacts.png)
