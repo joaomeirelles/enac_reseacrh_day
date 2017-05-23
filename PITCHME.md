@@ -78,7 +78,7 @@
 
 +++
 <span style="color:grey; font-size: 0.8em;">e.g.:  </span><span style="color:black; font-size: 0.8em;">  room for improvement in material flows</span>
-![p_flows](pics/p_flows.png)
+![p_flows](pics/p_flows2.png)
 
 
 +++
