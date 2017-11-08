@@ -1,4 +1,4 @@
 footnote : "HERUS-EPFL      |    ENAC research day"
 theme-override : assets/css/PITCHME.css
-autoslide : 1000
+autoslide : 5
 loop : true
